@@ -1,0 +1,11 @@
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\bin\Debug\Valtech.dll
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\bin\Debug\Valtech.pdb
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\bin\Debug\WebDriver.dll
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\bin\Debug\WebDriver.Support.dll
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\bin\Debug\WebDriver.xml
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\bin\Debug\WebDriver.Support.xml
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\obj\Debug\Valtech.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\obj\Debug\Valtech.dll
+C:\Users\TOM\Documents\GitHub\ValTech\Valtech\Valtech\obj\Debug\Valtech.pdb
